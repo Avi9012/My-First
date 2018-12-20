@@ -1,0 +1,57 @@
+<resources>
+    <string name="success_message">Registration Successfull</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="hint_conf_pass">Confirm Password...</string>
+    <string name="error_pass_match">Password Does Not Match</string>
+    <string name="error_message_name">Enter Name</string>
+    <string name="error_message_email">Enter Email Address</string>
+    <string name="error_message_password">Enter Correct Password</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_login">Log In</string>
+    <string name="text_not_member">No Account Yet? Register\nForget Password</string>
+    <string name="text_log_in">Already Have An Account? Log In</string>
+    <string name="short_pass">Password must be greater than six character</string>
+    <string name="text_register">Register</string>
+    <string name="hint_email">Email Address...</string>
+    <string name="hint_pass">Password...</string>
+    <string name="hint_name">Name...</string>
+    <string name="app_name">Sangam</string>
+    <string name="open">sangam</string>
+    <string name="close">sangam</string>
+    <string name="button">Send Feedback</string>
+    <string name="button1">SOS</string>
+    <string name="txt1">location</string>
+    <string name="txt">name</string>
+    <string name="appName">Sangam</string>
+    <string name="txt3">Welcome to Allahabad!!!</string>
+    <string name="text1">Contact</string>
+    <string name="text2">location</string>
+    <string name="text4">About</string>
+    <string name="infot4">History</string>
+    <string name="info_title">Mankameshwar Mandir</string>
+    <string name="info_text">Lorem ipsum Dolor</string>
+    <string name="about"></string>
+    <string name="splash">Sangam</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="infot">One of the four Kumbh held in India, Allahabad\'s Kumbh takes place on the holy banks of the meeting point, or Sangam, of three holy rivers, namely Ganga, Yamuna and the invisible Saraswati in the month of February.</string>
+
+    <string name="infot2">Kumbh has been listed as UNESCO\'s Representative List of Intangible Cultural Heritage of Humanity. It\'s one of the largest religious congregations in the world. It takes place once in 12 years at any given place, so make sure you don\'t miss the chance!</string>
+
+    <string name="infot3">Kumbh usually is hosted in the month of February, but the date hugely depends on the Hindu calendar Vikram Samvat.</string>
+
+    <string name="infot5">The Kumbh Mela of Haridwar appears to be the original Kumbh Mela, since it is held according to the astrological sign "Kumbha" (Aquarius), and because there are several references to a 12-year cycle for it.[16] The earliest extant texts that contain the name "Kumbha Mela" are Khulasat-ut-Tawarikh (1695 CE) and Chahar Gulshan (1759 CE). Both these texts use the term "Kumbh Mela" to describe only Haridwar's fair, although they mention the similar fairs held in Allahabad and Nashik district.[18] The Khulasat-ut-Tawarikh lists the following melas: an annual mela and a Kumbh Mela every 12 years at Haridwar; a mela held at Trimbak when Jupiter enters Leo (that is, once in 12 years); and an annual mela held at Prayag in Magh.[19]</string>
+
+    <string name="infot6">Important Dates</string>
+
+    <string name="infot7">
+The Kumbh Mela (sometimes specifically called Purna Kumbh or "full Kumbha"), occurs every 12 years at a given site.\n
+Ardh Kumbh ("Half Kumbh") Mela occurs between the two Purna Kumbha Melas at Prayag and Haridwar.\n
+The Maha Kumbh occurs after 12 Purna Kumbh Melas i.e. every 144 years.\n
+The Kumbh Mela at Prayag is celebrated after approximately 3 years of Kumbh Mela at Haridwar. There is a difference of around 3 years between the Kumbh Festivals at Prayag and Nashik. Kumbh at Nashik and Ujjain are celebrated in the same year or one year apart.
+
+</string>
+
+</resources>
